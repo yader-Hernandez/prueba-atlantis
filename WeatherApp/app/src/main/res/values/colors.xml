@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="info_snackbar">#FFF8CC</color>
+    <color name="bapy_mp_cel_i">#82E0AA</color>
+    <color name="bapy_circle_green">#DEF2D7</color>
+    <color name="green">#5DC137</color>
+    <color name="verde_oscuro">#06C140</color>
+    <color name="bapy_background_toolbal_tdc">#f5f5f5</color>
+    <color name="cardview_info_blue">#e6f2fb</color>
+    <color name="circle_radio_button">#8200ff</color>
+    <color name="text_black_blue_color">#222E41</color>
+    <color name="text_grey_title">#747F92</color>
+    <color name="option_snackbar">#4A5FDD</color>
+    <color name="black_light">#504E4E</color>
+    <color name="red">#ff0000</color>
+    <color name="naranja">#ff9500</color>
+    <color name="yellow_circle">#f2c421</color>
+    <color name="rosa">#FF00BE</color>
+    <color name="color_error">#FDE5E5</color>
+    <color name="progress_gray">#d0d2d3</color>
+    <color name="color_btn_enabled">#c2c2c2</color>
+    <color name="color_button_shep">#FFFFFF</color>
+    <color name="detail_saving_help_text">#151c25</color>
+    <color name="fondo_color">#fafafa</color>
+    <color name="text_abono">#747f92</color>
+    <color name="background_purple">#a879d5</color>
+    <color name="azul_hiperbinculo">#0000FF</color>
+    <color name="trnaspatent_white_80">#D5FFFFFF</color>
+    <color name="gsvc_exito_200">#E6FCEF</color>
+    <color name="gssa_teal_200">#03DAC5</color>
+    <color name="gssa_primary_100">#2EA400</color>
+    <color name="gssa_secondary_200">#AC55FF</color>
+    <color name="snackbar_error">#80FF0000</color>
+</resources>

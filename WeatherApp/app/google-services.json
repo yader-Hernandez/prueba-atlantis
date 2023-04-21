@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358704505612",
+    "project_id": "push-elektra",
+    "storage_bucket": "push-elektra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358704505612:android:14b63e844416e319d69f29",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358704505612-ndjmc0kp7rvmchs5tlpkscm5rcl6c0kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLg2z69E7-6ctSmm7VP7z0eLu3_cKZZiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358704505612-ndjmc0kp7rvmchs5tlpkscm5rcl6c0kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
